@@ -1,4 +1,4 @@
-# Moulitest ![travis](https://travis-ci.org/yyang42/moulitest.svg)
+# Moulitest [![Build Status](https://travis-ci.org/jbalestra/moulitest.svg?branch=master)](https://travis-ci.org/jbalestra/moulitest)
 
 <img align="right" height="230" src="http://i.imgur.com/3p0Xg7Z.png">
 
